@@ -1,0 +1,42 @@
+name: Bug
+description: Un problème dans VBS Timeline / Something wrong in VBS Timeline
+labels: [bug, beta]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Menu License ou titre de la fenêtre / License menu or window title
+      placeholder: "2.0.89"
+    validations:
+      required: true
+  - type: dropdown
+    id: system
+    attributes:
+      label: Système / System
+      options:
+        - Windows
+        - Mac Apple Silicon
+        - Mac Intel
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Logiciel ou appareil piloté / Controlled software or device
+      placeholder: "Resolume Arena 7.22, QLab 5, Pixelhue P80…"
+  - type: textarea
+    id: what
+    attributes:
+      label: Ce qui s'est passé / What happened
+      description: Ce que vous avez fait, ce que vous attendiez, ce qui s'est passé / What you did, what you expected, what happened
+    validations:
+      required: true
+  - type: textarea
+    id: files
+    attributes:
+      label: Capture et journal / Screenshot and log
+      description: |
+        Glissez ici une capture et le journal du jour / Drop a screenshot and the day's log here.
+        Windows : %LOCALAPPDATA%\VideoBridgeSolutions\VBSTimeline\Logs
+        Mac : ~/Library/Application Support/VideoBridgeSolutions/VBSTimeline/Logs
