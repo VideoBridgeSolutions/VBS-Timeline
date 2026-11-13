@@ -23,6 +23,7 @@ Toutes les versions : **[Releases](https://github.com/VideoBridgeSolutions/VBS-T
 | Mac Apple Silicon (M1 et suivants) | `VBSTimeline-<version>-osx-arm64.dmg` |
 | Mac Intel | `VBSTimeline-<version>-osx-x64.dmg` |
 | Module Bitfocus Companion | `videobridgesolutions-vbs-timeline-<version>.tgz` |
+| Manuel utilisateur (FR + EN) | `VBSTimeline_Manuel_v<version>_FR-EN.pdf` |
 
 - **Windows** : lancez l'installeur. Si SmartScreen s'affiche : « Informations complémentaires » puis « Exécuter quand même ».
 - **Mac** : ouvrez le DMG et glissez VBS Timeline dans Applications.
@@ -44,7 +45,7 @@ Essai complet de 15 jours. Ensuite, une licence (2 machines, valable 60 jours ho
 ### Documentation
 
 - Notes de version : chaque [release](https://github.com/VideoBridgeSolutions/VBS-Timeline/releases) et le dossier [`releases/`](releases/).
-- Manuel d'utilisation : lien donné avec chaque version.
+- Manuel utilisateur (PDF, français et anglais) : joint à chaque [release](https://github.com/VideoBridgeSolutions/VBS-Timeline/releases).
 
 ### Signaler un bug
 
@@ -69,6 +70,7 @@ All versions: **[Releases](https://github.com/VideoBridgeSolutions/VBS-Timeline/
 | Mac Apple Silicon (M1 and later) | `VBSTimeline-<version>-osx-arm64.dmg` |
 | Mac Intel | `VBSTimeline-<version>-osx-x64.dmg` |
 | Bitfocus Companion module | `videobridgesolutions-vbs-timeline-<version>.tgz` |
+| User manual (FR + EN) | `VBSTimeline_Manuel_v<version>_FR-EN.pdf` |
 
 - **Windows**: run the installer. If SmartScreen shows up: "More info" then "Run anyway".
 - **Mac**: open the DMG and drag VBS Timeline to Applications.
