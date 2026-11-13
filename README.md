@@ -31,7 +31,7 @@ Toutes les versions : **[Releases](https://github.com/VideoBridgeSolutions/VBS-T
 
 ### Ce que fait VBS Timeline
 
-Il pilote toute une régie depuis un seul poste : Resolume Arena, Pixelhue, console lumière (grandMA, DMX), timers, lecteurs vidéo, audio multipiste intégré.
+Il synchronise les machines de la régie : Resolume Arena, Pixelhue, console lumière (grandMA, DMX), timers, lecteurs vidéo, audio multipiste intégré.
 
 - **Timeline** : pistes et cues comme en montage, calées sur un timecode reçu (LTC, Art-Net Timecode) ou sur l'horloge interne.
 - **Pads** : une grille de scènes ; un clic lance vidéo, son, lumière et timer ensemble. Déclenchement direct ou GO.
@@ -78,7 +78,7 @@ All versions: **[Releases](https://github.com/VideoBridgeSolutions/VBS-Timeline/
 
 ### What VBS Timeline does
 
-It drives a whole control room from one computer: Resolume Arena, Pixelhue, lighting desks (grandMA, DMX), timers, video players, built-in multitrack audio.
+It keeps the machines of a control room in sync: Resolume Arena, Pixelhue, lighting desks (grandMA, DMX), timers, video players, built-in multitrack audio.
 
 - **Timeline**: tracks and cues as in an editor, locked to incoming timecode (LTC, Art-Net Timecode) or to the internal clock.
 - **Pads**: a grid of scenes; one click fires video, sound, light and timer together. Direct or GO triggering.
